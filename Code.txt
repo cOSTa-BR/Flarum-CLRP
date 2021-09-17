@@ -1,2 +1,0 @@
-Instalação do Flarum
-Adicionado o pacote de linguagem PT-BR
