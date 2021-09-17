@@ -22,3 +22,4 @@ Correção na tradução "Index"
 Adicionado banner no hero index
 Adicionado extensão "FoF Links"
 Adicionado botões no navbar do fórum
+Vinculação do botão "Discord" com endereço de convite
