@@ -13,3 +13,4 @@ Criado tag's secundárias em "Empresas & Facções"
 Criado tag primária "Outros"
 Criado tag's secundárias em "Outros"
 Adicionado extensão "News Widget"
+Correção na tradução das categorias
