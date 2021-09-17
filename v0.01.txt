@@ -1,3 +1,4 @@
 Instalação Flarum
 Instalação do pacote de idiomas PT-BR
 Adicionado extensão Flarum Categories
+Adicionado tema "Asirem"
