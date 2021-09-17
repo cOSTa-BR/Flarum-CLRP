@@ -1,1 +1,2 @@
 Instalação do Flarum
+Instalação do pacote de linguagem PT-BR
