@@ -25,3 +25,4 @@ Adicionado botões no navbar do fórum
 Vinculação do botão "Discord" com endereço de convite
 Atualização do modo categoria para modo tradicional fórum
 Remoção dos "item-tag" da coluna central da página
+Remoção do "Responder" e do "Timeline" lateral de uma discussão
