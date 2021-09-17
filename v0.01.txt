@@ -4,3 +4,4 @@ Adicionado extensão Flarum Categories
 Adicionado tema "Asirem"
 Criado tag primária "Informações Gerais"
 Criado tag's secundárias em "Informações Gerais"
+Criado tag primária "Em Personagem"
