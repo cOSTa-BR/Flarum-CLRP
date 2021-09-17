@@ -20,3 +20,4 @@ Correção na tradução do "Welcome box"
 Correção na tradução "Index"
 <Fix commit>
 Adicionado banner no hero index
+Adicionado extensão "FoF Links"
