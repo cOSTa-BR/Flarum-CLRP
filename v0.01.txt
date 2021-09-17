@@ -28,3 +28,4 @@ Remoção dos "item-tag" da coluna central da página
 Remoção do "Responder" e do "Timeline" lateral de uma discussão
 Adicionado a extenção "FoF Formatting"
 Adicionado a extenção "BBCode Alerts"
+Adicionado a extenção "Move Posts"
