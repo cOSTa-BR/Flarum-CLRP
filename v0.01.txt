@@ -14,5 +14,6 @@ Criado tag primária "Outros"
 Criado tag's secundárias em "Outros"
 Adicionado extensão "News Widget"
 Correção na tradução das categorias
+<Fix commit>
 Correção na tradução do "Welcome box"
 Correção na tradução "Index"
