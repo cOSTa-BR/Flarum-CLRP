@@ -18,4 +18,5 @@ Correção na tradução das categorias
 Correção na tradução do "Welcome box"
 <Fix commit>
 Correção na tradução "Index"
+<Fix commit>
 Adicionado banner no hero index
