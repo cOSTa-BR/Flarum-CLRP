@@ -1,2 +1,3 @@
 Instalação do Flarum
 Instalação do pacote de idiomas Português Brasil
+Correção
