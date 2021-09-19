@@ -30,3 +30,4 @@ Adicionado a extenção "FoF Formatting"
 Adicionado a extenção "BBCode Alerts"
 Adicionado a extenção "Move Posts"
 Adicionado a extenção "User badges"
+Fórum movido para hospedagem
