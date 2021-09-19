@@ -34,3 +34,4 @@ Fórum movido para hospedagem
 Tradução e correções pelo corpo do fórum
 Tags criadas de acordo com a hierarquia administrativa
 Permissões de usuários configurados pelos grupos
+Criação dos posts nas categorias
